@@ -20,8 +20,8 @@ VAULT is a conceptual smart contract security platform designed to help Web3 dev
 
 # Project Structure
 vault-landing/
-├── index.html
-├── styles.css
-└── README.md
+ index.html
+ styles.css
+ README.md
 
 # Live Demo
